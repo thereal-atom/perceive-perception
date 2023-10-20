@@ -12,7 +12,7 @@ and every person will think and see and feel different things to the ones they d
 
 That's what makes life...
 
-![buildings](/buildings.jpg)
+![buildings](/static/buildings.jpg)
 
 This is a photo of some buildings. In the foreground, some small family homes, in the background some massive office and apartment buildings. The buildings are seemingly lined up in order of age, where the buildings closet to me are just being built, while the buildings at the back are massive and old, consumed by nature.
 
