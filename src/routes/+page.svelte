@@ -25,13 +25,5 @@
                 <p class="text-3xl ml-32 mt-8">The background buildings are also many times larger than the family homes in the foreground, perhaps indicative of humans' social nature. Individuals and small groups are powerless in comparison to a massive group of people.</p>
             </div>
         </div>
-        <div class="flex flex-row items-center">
-            <p class="text-xl text-justify">I wouldn't say this is a particularly impressive or though-provoking picture, as I think many in this collection are, but I really like it. I like the overgrown swamp vibes because it really brings us close to true, 'old and wise' nature. It's like a grand parent with so much knowledge to share with the world.</p>
-            <img
-                class="w-[600px] ml-32 rounded-md"
-                src="/swamp.jpg"
-                alt="swamp"
-            />
-        </div>
     </div>
 </div>
