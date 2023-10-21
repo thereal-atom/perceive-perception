@@ -1,4 +1,9 @@
 <div class="flex flex-col items-center p-64">
+    <h1 class="text-5xl">perceive perception</h1>
+    <hr class="w-full my-24"/>
+    <h1 class="text-4xl">work in progress</h1>
+    <p class="mt-4">this project is still a work in progress but if you have anything at all (criticism, praise, a conversation about quantum physics) to say, do reach out on <a href="https://twitter.com/oscarfalll">twitter</a></p>
+    <hr class="w-full my-24"/>
     <div class="flex flex-col">
         <p class="text-2xl">Perception is unique. What one person finds interesting or beautiful, another finds boring or ugly. If everyone perceived everything in the exact same way, then it would be the same as no perception at all, and with no perception, nothing exists, because nothing can know about anything because they don't perceive it. It's not right to say that nothing exists, even though it does, but if nothing can experience anything, then what's the point of anything existing? If nothing experiences then nothing exists.</p>
         <p class="text-2xl mt-8">So a humans ability to look at an object or an image or some words on a page and think different things and experience different emotions to every other human is truly unique and a beautiful aspect of life that should be appreciated.</p>
